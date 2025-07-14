@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-06-01 23:36+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: zh-CN\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/pages/Setting.tsx:161
+msgid "About"
+msgstr "关于"
+
+#: src/pages/Setting.tsx:95
+msgid "Account"
+msgstr "账户"
+
+#: src/pages/Setting.tsx:225
+msgid "Add account"
+msgstr "添加账户"
+
+#: src/pages/SideBar/Playlists.tsx:52
+#: src/pages/Player/PlayerMenu.tsx:358
+#: src/components/CommonList/CommonMenu.tsx:257
+msgid "Add playlist"
+msgstr "新建播放列表"
+
+#: src/components/CommonList/CommonMenu.tsx:161
+msgid "Add to play queue"
+msgstr "添加到播放队列"
+
+#: src/pages/Player/PlayerMenu.tsx:234
+#: src/pages/Player/PlayerMenu.tsx:332
+#: src/components/CommonList/CommonMenu.tsx:156
+#: src/components/CommonList/CommonMenu.tsx:231
+msgid "Add to playlist"
+msgstr "添加到播放列表"
+
+#: src/pages/Files/FilterMenu.tsx:105
+msgid "Ascending"
+msgstr "正序"
+
+#: src/pages/Setting.tsx:137
+msgid "Auto"
+msgstr "自动"
+
+#: src/pages/Setting.tsx:176
+msgid "Build time"
+msgstr "编译日期"
+
+#: src/pages/Setting.tsx:230
+#: src/pages/Playlist/Playlist.tsx:217
+#: src/pages/Playlist/Playlist.tsx:240
+#: src/pages/Player/PlayerMenu.tsx:363
+#: src/components/CommonList/CommonMenu.tsx:262
+msgid "Cancel"
+msgstr "取消"
+
+#: src/components/CommonList/CommonMenu.tsx:220
+msgid "Cancel select"
+msgstr "取消选择"
+
+#: src/pages/Player/PlayerMenu.tsx:289
+msgid "Classic"
+msgstr "经典"
+
+#: src/pages/Setting.tsx:118
+msgid "Clear"
+msgstr "清除"
+
+#: src/pages/Player/VideoPlayerTopbar.tsx:56
+#: src/pages/Player/Audio/Modern.tsx:151
+#: src/pages/PictureView/PictureView.tsx:72
+msgid "Close"
+msgstr "关闭"
+
+#: src/pages/Setting.tsx:144
+msgid "Color mode"
+msgstr "颜色模式"
+
+#: src/pages/Search.tsx:183
+msgid "Current"
+msgstr "当前"
+
+#: src/pages/NavBar.tsx:122
+msgid "Currently using a development version, please be careful with your data!"
+msgstr "当前正在使用开发版本，请注意数据安全!"
+
+#: src/pages/Setting.tsx:127
+msgid "Customize"
+msgstr "定制"
+
+#: src/pages/Setting.tsx:139
+msgid "Dark"
+msgstr "深色"
+
+#: src/pages/Setting.tsx:114
+msgid "Data"
+msgstr "数据"
+
+#: src/pages/Playlist/Playlist.tsx:191
+msgid "Delete"
+msgstr "删除"
+
+#: src/pages/Files/FilterMenu.tsx:106
+msgid "Descending"
+msgstr "倒序"
+
+#: src/pages/Playlist/Playlist.tsx:213
+msgid "Enter new title"
+msgstr "输入新标题"
+
+#: src/pages/SideBar/SideBar.tsx:19
+msgid "Files"
+msgstr "文件"
+
+#: src/pages/Files/FilterMenu.tsx:114
+msgid "Folders first"
+msgstr "文件夹优先"
+
+#: src/pages/Player/PlayerControl.tsx:316
+#: src/pages/Player/Audio/Modern.tsx:201
+msgid "Fullscreen"
+msgstr "全屏"
+
+#: src/pages/Search.tsx:182
+msgid "Global"
+msgstr "全局"
+
+#: src/pages/Files/FilterMenu.tsx:81
+msgid "Grid"
+msgstr "网格"
+
+#: src/pages/Files/FilterMenu.tsx:118
+msgid "HD thumbnails"
+msgstr "高清缩略图"
+
+#: src/pages/SideBar/SideBar.tsx:20
+msgid "History"
+msgstr "历史"
+
+#: src/pages/Files/FilterMenu.tsx:94
+msgid "Last modified"
+msgstr "最后修改"
+
+#: src/pages/Setting.tsx:138
+msgid "Light"
+msgstr "浅色"
+
+#: src/pages/Files/FilterMenu.tsx:79
+msgid "List"
+msgstr "列表"
+
+#: src/pages/Setting.tsx:122
+msgid "Local metaData cache"
+msgstr "本地元数据缓存"
+
+#: src/pages/Player/Audio/Modern.tsx:184
+msgid "Lyrics"
+msgstr "歌词"
+
+#: src/pages/Setting.tsx:98
+msgid "Manage"
+msgstr "管理"
+
+#: src/pages/Files/FilterMenu.tsx:115
+msgid "Media only"
+msgstr "仅限媒体"
+
+#: src/pages/Player/PlayerMenu.tsx:164
+msgid "Menu"
+msgstr "菜单"
+
+#: src/pages/Player/PlayerMenu.tsx:277
+msgid "Modern"
+msgstr "现代"
+
+#: src/pages/Playlist/Playlist.tsx:157
+#: src/components/CommonList/CommonListItemCard.tsx:88
+#: src/components/CommonList/CommonListItem.tsx:39
+msgid "More"
+msgstr "更多"
+
+#: src/pages/Files/FilterMenu.tsx:80
+msgid "Multicolumn list"
+msgstr "多列列表"
+
+#: src/pages/Files/FilterMenu.tsx:92
+msgid "Name"
+msgstr "名称"
+
+#: src/pages/SideBar/Playlists.tsx:19
+#: src/pages/Player/PlayerMenu.tsx:131
+#: src/components/CommonList/CommonMenu.tsx:71
+msgid "New playlist"
+msgstr "新播放列表"
+
+#: src/pages/Player/Audio/Modern.tsx:282
+#: src/components/Lyrics/Lyrics.tsx:88
+msgid "No lyrics"
+msgstr "无歌词"
+
+#: src/pages/Playlist/Playlist.tsx:224
+#: src/pages/Playlist/Playlist.tsx:241
+msgid "OK"
+msgstr "确定"
+
+#: src/pages/Player/PlayerMenu.tsx:214
+#: src/components/CommonList/CommonMenu.tsx:168
+msgid "Open in folder"
+msgstr "打开所在文件夹"
+
+#: src/pages/Setting.tsx:182
+msgid "Open source dependencies"
+msgstr "开源库"
+
+#: src/components/CommonList/CommonList.tsx:383
+msgid "Play all"
+msgstr "全部播放"
+
+#: src/pages/Player/PlayerMenu.tsx:222
+#: src/pages/Player/PlayerControl.tsx:306
+#: src/pages/Player/Audio/Modern.tsx:169
+msgid "Play queue"
+msgstr "播放队列"
+
+#: src/pages/Player/PlayerMenu.tsx:201
+#: src/pages/Player/PlayerMenu.tsx:302
+msgid "Playback rate"
+msgstr "播放速度"
+
+#: src/pages/Setting.tsx:107
+#: src/pages/LogIn.tsx:24
+msgid "Please use Microsoft account authorization to log in"
+msgstr "请使用微软账户授权登录"
+
+#: src/pages/Player/PlayerMenu.tsx:251
+msgid "Re-fetch metadata"
+msgstr "重新获取元数据"
+
+#: src/components/CommonList/CommonMenu.tsx:186
+msgid "Remove"
+msgstr "移除"
+
+#: src/pages/Playlist/Playlist.tsx:185
+#: src/pages/Playlist/Playlist.tsx:203
+msgid "Rename"
+msgstr "重命名"
+
+#: src/pages/Search.tsx:120
+#: src/pages/Search.tsx:143
+#: src/pages/Search.tsx:145
+#: src/pages/Search.tsx:167
+msgid "Search"
+msgstr "搜索"
+
+#: src/components/CommonList/CommonMenu.tsx:199
+msgid "Select"
+msgstr "选择"
+
+#: src/pages/Setting.tsx:196
+msgid "Select account"
+msgstr "选择账户"
+
+#: src/components/CommonList/CommonMenu.tsx:209
+msgid "Select all"
+msgstr "全选"
+
+#: src/pages/SideBar/SideBar.tsx:21
+msgid "Setting"
+msgstr "设置"
+
+#: src/components/CommonList/ShuffleAll.tsx:24
+msgid "Shuffle all"
+msgstr "全部随机播放"
+
+#: src/pages/LogIn.tsx:26
+msgid "Sign in"
+msgstr "Sign in"
+
+#: src/pages/Setting.tsx:204
+msgid "Sign out"
+msgstr "注销"
+
+#: src/pages/Files/FilterMenu.tsx:93
+msgid "Size"
+msgstr "大小"
+
+#: src/pages/Player/PlayerMenu.tsx:242
+msgid "Switch fullscreen"
+msgstr "切换全屏"
+
+#: src/pages/Player/PlayerMenu.tsx:192
+#: src/pages/Player/PlayerMenu.tsx:265
+msgid "Switch theme"
+msgstr "切换主题"
+
+#: src/pages/Playlist/Playlist.tsx:237
+msgid "The playlist will be deleted"
+msgstr "播放列表将会被删除"
+
+#: src/pages/Setting.tsx:156
+msgid "Use album cover theme color"
+msgstr "使用专辑封面主题色"
+
+#: src/pages/Setting.tsx:170
+msgid "Version"
+msgstr "版本号"

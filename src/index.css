@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  /* scrollbar-width: thin; */
+}
+
+html {
+  background-color: #f7f7f7;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #3b3b3b;
+  }
+}
+
+:root {
+  color-scheme: light dark;
+  font-synthesis: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  --custom-titlebar-height: 32px;
+  --titlebar-height: env(titlebar-area-height, var(--custom-titlebar-height));
+  --titlebar-center-safe-width: calc((50dvw - (100dvw - env(titlebar-area-x) - env(titlebar-area-width))) * 2)
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  background-color: #f7f7f7;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  background-color: #3b3b3b;
+}
+
+a {
+  text-decoration: inherit;
+}
+
+.app-region-drag {
+  -webkit-app-region: drag;
+  app-region: drag;
+}
+
+.app-region-no-drag {
+  -webkit-app-region: no-drag;
+  app-region: no-drag;
+}
+
+.pt-titlebar-area-height {
+  padding-top: env(titlebar-area-height, 0) !important;
+}
+
+.show-scrollbar::-webkit-scrollbar-thumb {
+  visibility: visible !important;
+}

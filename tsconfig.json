@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "moduleResolution": "Node",
+    "target": "es5",
+    "lib": [
+      "es2019",
+      "dom"
+    ],
+    "allowJs": false,
+    "resolveJsonModule": true,
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "baseUrl": "./",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    },
+    "types": [
+      "./node_modules/@lingui/macro/index.d.ts"
+    ]
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+  ]
+}
